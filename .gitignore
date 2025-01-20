@@ -1,0 +1,16 @@
+.vscode
+*.pyc*
+.class
+*.exe
+*.dll
+q_n_a_venv
+__pycache__
+*.pyo
+*.pyc
+*.pyd
+*.pyw
+.q_n_a_venv
+Dataset/*.csv
+Dataset/*.xlsx
+Dataset/*.xls
+Dataset/*.txt
